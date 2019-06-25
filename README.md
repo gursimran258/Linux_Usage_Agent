@@ -6,7 +6,7 @@
 <h1 id="introduction">INTRODUCTION</h1>
 <p>Linux Cluster Monitoring Agent has been implemented with primary goal of assisting infrastructure Managers to keep track of hardware specifications and resource usages. It will help them in understanding cluster usage and plan for cluster growth.</p>
 <h1 id="architecture-and-design">ARCHITECTURE AND DESIGN</h1>
-![Architecture](https://github.com/gursimran258/Linux_Usage_Agent/blob/master/scripts/arch.jpg)
+![Architecture](scripts/arch.jpg)
 <p>There could be multiple nodes in the cluster. Bash agents are designed to support  gathering data and inserting into the database. Database will have two schema designed to gather host information and usage of resources on the host.</p>
 <h2 id="host-information">Host information</h2>
 <p>This schema is designed to gather host id, name, processor and related information of host.</p>
