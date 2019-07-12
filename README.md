@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="introduction">Introduction</h2>
 <p>Linux Cluster Monitoring Agent has been implemented with primary goal of assisting infrastructure managers to keep track of hardware specifications and resource usages (e.g. CPU/memory) of nodes in the cluster. It will also assist them in understanding cluster usage and plan for cluster growth. In this application, data persistance is also desired.</p>
 <h2 id="architecture-and-design">Architecture and Design</h2>
