@@ -1,3 +1,4 @@
+CREATE DATABASE host_agent; 
 
 CREATE TABLE PUBLIC.host_info
 (
